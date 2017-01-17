@@ -1,8 +1,7 @@
 /* =========== LAYOUT SECTION =========== */
 
 body  { 
-
-background-color: yellow;
+background-color: #FFEA00;
 margin: 0px;
 font-family: Verdana, Georgia, serif;
 font-size: 14px;        
@@ -101,7 +100,7 @@ background-color: #fff;
 
 .main  { 
 
-background-color: #996B4B;
+background-color: #000000;
 margin-left: 10px;
 margin-right: 320px;
 margin-top: 10px;
